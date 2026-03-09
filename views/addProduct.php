@@ -1,6 +1,4 @@
-<?php
-    include ('View.php');
-?>
+
 <!--
     Vista para añadir nuevos productos. Contiene el código HTML con el formulario así como el código PHP para
     mostrar errores de validación, en caso de existir.
